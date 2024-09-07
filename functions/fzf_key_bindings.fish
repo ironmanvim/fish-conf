@@ -1,0 +1,1 @@
+/home/tonystark/.fzf/shell/key-bindings.fish

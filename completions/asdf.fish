@@ -1,0 +1,1 @@
+/home/tonystark/.asdf/completions/asdf.fish
